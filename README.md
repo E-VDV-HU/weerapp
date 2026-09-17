@@ -1,5 +1,5 @@
 # Esper's Weather App
-
+(readme made by copilot on github, rest is my code)
 A simple desktop weather application built with Python and Tkinter. It fetches live weather data from the Open-Meteo API and displays the current conditions, a 12-hour outlook, and a 7-day forecast for a chosen city.
 
 ## Features
